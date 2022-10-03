@@ -134,6 +134,7 @@ Mattt es escritor y desarrollador en Portland, Oregon. Es el fundador de NSHipst
 	- [The Swift 5.1 features that power SwiftUI’s API,  @FunctionBuilders - @propertyWrapper](https://www.swiftbysundell.com/articles/the-swift-51-features-that-power-swiftuis-api/#property-wrappers)
 	- [Building a command line](https://www.swiftbysundell.com/articles/building-a-command-line-tool-using-the-swift-package-manager/)
 	- [member-lookup-with-key-paths Builder](https://www.swiftbysundell.com/tips/combining-dynamic-member-lookup-with-key-paths/)
+	- [combining-dynamic-member-lookup-with-key-paths](https://www.swiftbysundell.com/tips/combining-dynamic-member-lookup-with-key-paths/)
 
 
 
@@ -187,3 +188,5 @@ Importante para cualquier desarrollador despues de aprender swift leer la docume
 - [Api design guidelines - Swift by sundell](https://www.swiftbysundell.com/posts/designing-swift-apis)
 - [Namespacing](https://www.swiftbysundell.com/posts/namespacing-swift-code-with-nested-types)
 - [Date parsing (Reuse Expensive Objects)](http://jordansmith.io/performant-date-parsing/)
+- [Inteligencia Arifial](https://liner.ai/projects)
+	- [Texto a imagen](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) 
