@@ -21,6 +21,13 @@
 	 - [SwiftUI bajo el capó: Vistas variadas](https://movingparts.io/variadic-views-in-swiftui)`Internal`
 	 - [SwiftUI under the Hood: Fonts](https://movingparts.io/fonts-in-swiftui)
 
+### www.objc.io
+ - [https://movingparts.io](https://www.objc.io)
+	- [Why Conditional View Modifiers are a Bad Idea](https://www.objc.io/blog/2021/08/24/conditional-view-modifiers/)
+
+### Alexey Naumov
+- [Why I quit using the ObservableObject](https://nalexn.github.io/swiftui-observableobject/)
+- [Stranger things around SwiftUI's state](https://nalexn.github.io/stranger-things-swiftui-state/)
  
 ### Projects
 
