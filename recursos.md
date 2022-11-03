@@ -19,6 +19,7 @@ Esto mantiene las propuestas de cambios y mejoras visibles para el usuario en el
 - [Setup Charles for iPhone](https://programmingwithswift.github.io/posts/setup-charles-for-iphone/)
 - [https://exyte.com/blog](https://exyte.com/blog)
 - [https://nilcoalescing.com/blog/](https://nilcoalescing.com/blog/)
+- [Reducing Xcode debugger logs](https://samwize.com/2022/10/29/reduce-xcode-debugger-logs/?utm_source=swiftlee&utm_medium=swiftlee_weekly&utm_campaign=issue_139)
 
 ### objc.io
 

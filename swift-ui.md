@@ -2,6 +2,7 @@
 - [Clean Architecture for SwiftUI](https://nalexn.github.io/clean-architecture-swiftui/)
 - [Understanding how and when SwiftUI decides to redraw views](https://www.donnywals.com/understanding-how-and-when-swiftui-decides-to-redraw-views/)
 - [How I Decoded Function Builders in Swift](https://medium.com/swift-india/how-i-decoded-function-builders-in-swift-be21e9f13429)
+- [Ejecutar código solo una vez en SwiftUI](https://www.swiftjectivec.com/swiftui-run-code-only-once-versus-onappear-or-task/)
 
 ### Git
 

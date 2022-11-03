@@ -15,3 +15,14 @@
 
 * [Recursos Recomendados](recursos.md) :ok_hand:
 * [SwiftUI](swift-ui.md) 
+
+## Comandos
+
+
+```
+// Apps instaladas
+xcrun simctl listapps booted
+
+// Reiniciar los permisos de ubicacion
+xcrun simctl privacy booted reset location com.apple.Maps
+```
