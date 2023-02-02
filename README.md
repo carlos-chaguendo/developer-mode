@@ -31,4 +31,5 @@ xcrun simctl privacy booted reset location com.apple.Maps
 ```
 https://developer.apple.com/library/archive/technotes/tn2124/_index.html#//apple_ref/doc/uid/DTS10003391-CH1-SECWEBSERVICES
 https://github.com/armcknight/Awesome-Xcode-Debugging
+https://suelan.github.io/2020/02/05/iOS-Simulator-from-the-Command-Line/
 ```
