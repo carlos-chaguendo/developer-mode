@@ -26,3 +26,8 @@ xcrun simctl listapps booted
 // Reiniciar los permisos de ubicacion
 xcrun simctl privacy booted reset location com.apple.Maps
 ```
+
+##  Debugging Magic 
+```
+https://developer.apple.com/library/archive/technotes/tn2124/_index.html#//apple_ref/doc/uid/DTS10003391-CH1-SECWEBSERVICES
+```
