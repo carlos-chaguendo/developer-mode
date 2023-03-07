@@ -33,3 +33,7 @@ https://developer.apple.com/library/archive/technotes/tn2124/_index.html#//apple
 https://github.com/armcknight/Awesome-Xcode-Debugging
 https://suelan.github.io/2020/02/05/iOS-Simulator-from-the-Command-Line/
 ```
+
+## Private Frameworks
+
+- Invocar fameworks privados desde swift https://medium.com/@victor.pavlychko/private-apis-objective-c-runtime-and-swift-ceaeefbb6e48
