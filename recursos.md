@@ -67,7 +67,7 @@ Esto mantiene las propuestas de cambios y mejoras visibles para el usuario en el
 ### Vadim Bulavin
 
 - [https://www.vadimbulavin.com](https://www.vadimbulavin.com)
-	- [Call as function](https://www.vadimbulavin.com/call-as-function-in-swift/) 
+	- [Call as function - Delegates](https://www.vadimbulavin.com/call-as-function-in-swift/) 
 	- [Snapshot testing swiftUI](https://www.vadimbulavin.com/snapshot-testing-swiftui-views/)
 	- [Function Builders in Swift and SwiftUI](https://www.vadimbulavin.com/swift-function-builders-swiftui-view-builder/)
 
