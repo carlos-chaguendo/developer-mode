@@ -55,9 +55,12 @@ Esto mantiene las propuestas de cambios y mejoras visibles para el usuario en el
 	- [Testing the Untestable](https://dasdom.dev/testing-the-untestable/)
 
 ### sarunw
-
 - [https://sarunw.com/posts/](https://sarunw.com/posts/)
 	- [SwiftUI-Show multiple alerts](https://sarunw.com/posts/how-to-show-multiple-alerts-on-the-same-view-in-swiftui/)
+
+### paul samuels
+- [https://paul-samuels.com/page3/](https://paul-samuels.com)
+	- [XCTCast](https://paul-samuels.com/blog/2023/03/23/xctcast/) 
 
 ### Swift with majid
 
