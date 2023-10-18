@@ -21,6 +21,9 @@ Esto mantiene las propuestas de cambios y mejoras visibles para el usuario en el
 - [https://nilcoalescing.com/blog/](https://nilcoalescing.com/blog/)
 - [Reducing Xcode debugger logs](https://samwize.com/2022/10/29/reduce-xcode-debugger-logs/?utm_source=swiftlee&utm_medium=swiftlee_weekly&utm_campaign=issue_139)
 
+### rensbr.eu
+- [Render Loop - CATransaction](https://rensbr.eu/blog/swiftui-render-loop/)
+
 ### polpiella.dev
 
 - https://www.polpiella.dev/posts/
