@@ -3,11 +3,13 @@
 - [Understanding how and when SwiftUI decides to redraw views](https://www.donnywals.com/understanding-how-and-when-swiftui-decides-to-redraw-views/)
 - [How I Decoded Function Builders in Swift](https://medium.com/swift-india/how-i-decoded-function-builders-in-swift-be21e9f13429)
 - [Ejecutar código solo una vez en SwiftUI](https://www.swiftjectivec.com/swiftui-run-code-only-once-versus-onappear-or-task/)
-- [Constructing a Tree for SwiftUI with custom views](https://gist.github.com/chriseidhof/d23f82f8a9e85e75bc02be220326199a)
+- [Don't use escaping closures in SwiftUI](https://rensbr.eu/blog/swiftui-escaping-closures/)
+
 
 ### Git
 
 - [Drawing tree](https://gist.github.com/chriseidhof/b5f91ca23f7b98307c066218d4b119ff)
+- [Constructing a Tree for SwiftUI with custom views](https://gist.github.com/chriseidhof/d23f82f8a9e85e75bc02be220326199a)
 
 ### John Sundell
 
