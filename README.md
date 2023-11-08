@@ -10,6 +10,8 @@
 * [Macdown](https://macdown.uranusjr.com) is an open source Markdown editor for macOS
 * [CaptuOCR](https://github.com/carlos-chaguendo/capture-ocr) Take a screenshot and extract text
 
+## Configuraciones
+* [XCode - The Build Process](https://www.objc.io/issues/6-build-tools/build-process/)
 
 ## Documentación
 
