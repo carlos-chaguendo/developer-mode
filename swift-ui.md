@@ -3,6 +3,7 @@
 - [Understanding how and when SwiftUI decides to redraw views](https://www.donnywals.com/understanding-how-and-when-swiftui-decides-to-redraw-views/)
 - [How I Decoded Function Builders in Swift](https://medium.com/swift-india/how-i-decoded-function-builders-in-swift-be21e9f13429)
 - [Ejecutar código solo una vez en SwiftUI](https://www.swiftjectivec.com/swiftui-run-code-only-once-versus-onappear-or-task/)
+- [Constructing a Tree for SwiftUI with custom views](https://gist.github.com/chriseidhof/d23f82f8a9e85e75bc02be220326199a)
 
 ### Git
 
