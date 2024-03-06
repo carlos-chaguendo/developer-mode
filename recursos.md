@@ -22,6 +22,13 @@ Esto mantiene las propuestas de cambios y mejoras visibles para el usuario en el
 - [Reducing Xcode debugger logs](https://samwize.com/2022/10/29/reduce-xcode-debugger-logs/?utm_source=swiftlee&utm_medium=swiftlee_weekly&utm_campaign=issue_139)
 - [XCTCast](https://paul-samuels.com/blog/2023/03/23/xctcast/)
 
+### SWIFTY LION
+
+- [https://swiftylion.com/articles](https://swiftylion.com/articles)
+	- [Make Code Easier to Write and Read in Swift 5.9](https://swiftylion.com/articles/if-switch-syntax-improvements-in-swift)
+ 	- [How To Take an Xcode Simulator Screenshot without Shadows](https://swiftylion.com/articles/take-simulator-screenshot-without-shadows)
+  	- [Error “Missing file libarclite“ (Xcode 14.3)](https://swiftylion.com/articles/missing-file-libarclite) 
+
 ### rensbr.eu
 - [Render Loop - CATransaction](https://rensbr.eu/blog/swiftui-render-loop/)
 
