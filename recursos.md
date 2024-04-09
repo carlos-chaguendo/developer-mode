@@ -21,6 +21,8 @@ Esto mantiene las propuestas de cambios y mejoras visibles para el usuario en el
 - [https://nilcoalescing.com/blog/](https://nilcoalescing.com/blog/)
 - [Reducing Xcode debugger logs](https://samwize.com/2022/10/29/reduce-xcode-debugger-logs/?utm_source=swiftlee&utm_medium=swiftlee_weekly&utm_campaign=issue_139)
 - [XCTCast](https://paul-samuels.com/blog/2023/03/23/xctcast/)
+- [Xcode post-test debug](https://www.theswift.dev/posts/debug-xcode-scheme-pre-post-actions)
+	- https://stackoverflow.com/questions/10723174/where-is-the-logfile-located-for-xcode-scheme-post-actions
 
 ### SWIFTY LION
 
