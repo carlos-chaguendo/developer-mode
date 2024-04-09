@@ -23,6 +23,7 @@ Esto mantiene las propuestas de cambios y mejoras visibles para el usuario en el
 - [XCTCast](https://paul-samuels.com/blog/2023/03/23/xctcast/)
 - [Xcode post-test debug](https://www.theswift.dev/posts/debug-xcode-scheme-pre-post-actions)
 	- https://stackoverflow.com/questions/10723174/where-is-the-logfile-located-for-xcode-scheme-post-actions
+ 	- https://gist.github.com/billylam/64aad76a3c6048dff6dfc07e9cdee496 
 
 ### SWIFTY LION
 
