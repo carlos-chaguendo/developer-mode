@@ -11,6 +11,11 @@
 - [Drawing tree](https://gist.github.com/chriseidhof/b5f91ca23f7b98307c066218d4b119ff)
 - [Constructing a Tree for SwiftUI with custom views](https://gist.github.com/chriseidhof/d23f82f8a9e85e75bc02be220326199a)
 
+### exyte
+
+- [SwiftUI tutorial: replicating the Activity application](https://exyte.com/blog/swiftui-tutorial-replicating-activity-application)
+- [Key Frames](https://exyte.com/blog/keyframes-ios17)
+
 ### John Sundell
 
  - [swiftbysundell.com](https://www.swiftbysundell.com/tags/swiftui/)
