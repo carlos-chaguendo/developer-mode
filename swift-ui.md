@@ -5,6 +5,7 @@
 - [Ejecutar código solo una vez en SwiftUI](https://www.swiftjectivec.com/swiftui-run-code-only-once-versus-onappear-or-task/)
 - [Don't use escaping closures in SwiftUI](https://rensbr.eu/blog/swiftui-escaping-closures/)
 - [How To Read Foreground and Tint Colors in SwiftUI Views](https://kylehugh.es/documents/how-to-read-foreground-and-tint-colors-in-swiftui-views/)
+- [The Power of Custom ShapeStyle for SwiftUI Theming](https://freiwald.dev/posts/custom-environment-colors/)
 
 
 ### Git
