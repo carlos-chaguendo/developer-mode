@@ -6,6 +6,13 @@
 - [Don't use escaping closures in SwiftUI](https://rensbr.eu/blog/swiftui-escaping-closures/)
 - [How To Read Foreground and Tint Colors in SwiftUI Views](https://kylehugh.es/documents/how-to-read-foreground-and-tint-colors-in-swiftui-views/)
 - [The Power of Custom ShapeStyle for SwiftUI Theming](https://freiwald.dev/posts/custom-environment-colors/)
+- [A Hero View Controller Transition in SwiftUI](https://shadowfacts.net/2023/swiftui-hero-transition/)
+- [Theming iOS Apps is No Longer Hard](https://shadowfacts.net/2023/custom-traits/)
+- [Making Friends with AttributeGraph](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/)
+- [Untangling the AttributeGraph](https://rensbr.eu/blog/swiftui-attribute-graph/)
+- SwiftUI Previews
+	- [Behind SwiftUI Previews](https://www.guardsquare.com/blog/behind-swiftui-previews)
+ 	- [Building Stable Preview Views: How SwiftUI Previews Work](https://fatbobman.com/en/posts/how-swiftui-preview-works/) 
 
 
 ### Git
