@@ -10,6 +10,7 @@
 - [Theming iOS Apps is No Longer Hard](https://shadowfacts.net/2023/custom-traits/)
 - [Making Friends with AttributeGraph](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/)
 - [Untangling the AttributeGraph](https://rensbr.eu/blog/swiftui-attribute-graph/)
+- [Mixing Text and Image in SwiftUI](https://fatbobman.com/en/posts/mixing_text_and_graphics_with_text_in_swiftui/)
 - SwiftUI Previews
 	- [Behind SwiftUI Previews](https://www.guardsquare.com/blog/behind-swiftui-previews)
  	- [Building Stable Preview Views: How SwiftUI Previews Work](https://fatbobman.com/en/posts/how-swiftui-preview-works/) 
