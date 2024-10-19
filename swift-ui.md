@@ -17,6 +17,7 @@
 
 ## https://fatbobman.com
 - [SwiftUI Layout: Cracking the Size Code](https://fatbobman.com/en/posts/layout-dimensions-2/)
+- [SwiftUI Field Guide](https://www.swiftuifieldguide.com/layout/alignment/#customAlignmentIDs)
 
 ### Git
 
