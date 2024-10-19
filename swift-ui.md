@@ -15,6 +15,8 @@
 	- [Behind SwiftUI Previews](https://www.guardsquare.com/blog/behind-swiftui-previews)
  	- [Building Stable Preview Views: How SwiftUI Previews Work](https://fatbobman.com/en/posts/how-swiftui-preview-works/) 
 
+## https://fatbobman.com
+- [SwiftUI Layout: Cracking the Size Code](https://fatbobman.com/en/posts/layout-dimensions-2/)
 
 ### Git
 
