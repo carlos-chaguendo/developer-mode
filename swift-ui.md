@@ -13,7 +13,9 @@
 - [Mixing Text and Image in SwiftUI](https://fatbobman.com/en/posts/mixing_text_and_graphics_with_text_in_swiftui/)
 - SwiftUI Previews
 	- [Behind SwiftUI Previews](https://www.guardsquare.com/blog/behind-swiftui-previews)
- 	- [Building Stable Preview Views: How SwiftUI Previews Work](https://fatbobman.com/en/posts/how-swiftui-preview-works/) 
+ 	- [Building Stable Preview Views: How SwiftUI Previews Work](https://fatbobman.com/en/posts/how-swiftui-preview-works/)
+- Draw
+	- [Draw view tree](https://gist.github.com/chriseidhof/d23f82f8a9e85e75bc02be220326199a) 	
 
 ## https://fatbobman.com
 - [SwiftUI Layout: Cracking the Size Code](https://fatbobman.com/en/posts/layout-dimensions-2/)
