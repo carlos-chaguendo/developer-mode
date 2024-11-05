@@ -14,8 +14,6 @@
 - SwiftUI Previews
 	- [Behind SwiftUI Previews](https://www.guardsquare.com/blog/behind-swiftui-previews)
  	- [Building Stable Preview Views: How SwiftUI Previews Work](https://fatbobman.com/en/posts/how-swiftui-preview-works/)
-- Draw
-	- [Draw view tree](https://gist.github.com/chriseidhof/d23f82f8a9e85e75bc02be220326199a) 	
 
 ## https://fatbobman.com
 - [SwiftUI Layout: Cracking the Size Code](https://fatbobman.com/en/posts/layout-dimensions-2/)
@@ -24,6 +22,7 @@
 ### Git
 
 - [Drawing tree](https://gist.github.com/chriseidhof/b5f91ca23f7b98307c066218d4b119ff)
+- [Drawing view tree](https://gist.github.com/chriseidhof/d23f82f8a9e85e75bc02be220326199a) 
 - [Constructing a Tree for SwiftUI with custom views](https://gist.github.com/chriseidhof/d23f82f8a9e85e75bc02be220326199a)
 
 ### exyte
