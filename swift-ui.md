@@ -18,6 +18,7 @@
  	- [Building Stable Preview Views: How SwiftUI Previews Work](https://fatbobman.com/en/posts/how-swiftui-preview-works/)
 - [Running a Mac App Without an Xcode Project](https://www.objc.io/blog/2020/05/19/swiftui-without-an-xcodeproj/)
 - [Mac application with swiftui](https://www.alwaysrightinstitute.com/tows/)
+- [observableobject-initialisation-from-environment](https://medium.com/@pavel-holec/observableobject-initialisation-from-environment-2efa054de06d)
 
 ## https://fatbobman.com
 - [SwiftUI Layout: Cracking the Size Code](https://fatbobman.com/en/posts/layout-dimensions-2/)
