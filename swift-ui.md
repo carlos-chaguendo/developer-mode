@@ -48,6 +48,8 @@
  - [https://movingparts.io](https://movingparts.io)
 	 - [SwiftUI bajo el capó: Vistas variadas](https://movingparts.io/variadic-views-in-swiftui)`Internal`
 	 - [SwiftUI under the Hood: Fonts](https://movingparts.io/fonts-in-swiftui)
+         - [Composable Styles in SwiftUI](https://movingparts.io/composable-styles-in-swiftui)
+  	 - [Generalizing styling APIs for SwiftUI components.](https://swiftaddict.com/blog/styling)
 
 ### www.objc.io
  - [https://movingparts.io](https://www.objc.io)
