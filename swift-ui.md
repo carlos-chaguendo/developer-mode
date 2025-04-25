@@ -70,3 +70,43 @@
 
 Se puede ver el codigo fuente de SwiftUI
 > /Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SwiftUI.framework/Modules/SwiftUI.swiftmodule/arm64.swiftinterface
+
+### DynamicProperty
+
+te da acceso a las variables del estado dentro de un objeto que no sea una view, como un view model o una clase utilitaria.
+
+```swift
+protocol DashboardWidget: DynamicProperty {
+    associatedtype Body: View
+    @MainActor @ViewBuilder
+    func body(size: CGSize) -> Body
+}
+
+
+struct EmailWidget: DashboardWidget {
+    @Environment(\.colorScheme) private var scheme
+    func body(size: CGSize) -> some View {
+        Button("Size: \(size.width) x \(size.height)") {
+            print(scheme)
+        }
+    }
+}
+
+struct DashboardView<Content: DashboardWidget>: View {
+    var content: Content
+    init(content: () -> Content) {
+        self.content = content()
+    }
+
+    var body: some View {
+        content.body(size: CGSize(width: 100, height: 100))
+    }
+}
+
+
+ DashboardView {
+       EmailWidget()
+ }.colorScheme(.dark)
+```
+
+cunado presionas el boton esperaria que te imprima `dark` esto solo sucede si  DashboardWidget: soporta el protocólo  DynamicProperty
