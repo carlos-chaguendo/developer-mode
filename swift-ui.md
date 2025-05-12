@@ -21,7 +21,8 @@
 - [observableobject-initialisation-from-environment](https://medium.com/@pavel-holec/observableobject-initialisation-from-environment-2efa054de06d)
 - [@EnviromentBack](https://www.magnuskahr.dk/posts/2022/12/introducing-the-environmentBacked-property-wrapper/) permite obtener una opcion desde el componente o de la variable de entorno
 
-## https://fatbobman.com
+### https://fatbobman.com
+- [implicit/ecplicit animations, disable componets animations](https://fatbobman.com/en/posts/mastering-transaction/)
 - [SwiftUI Layout: Cracking the Size Code](https://fatbobman.com/en/posts/layout-dimensions-2/)
 - [SwiftUI Field Guide](https://www.swiftuifieldguide.com/layout/alignment/#customAlignmentIDs)
 
