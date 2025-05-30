@@ -93,6 +93,7 @@ Esto mantiene las propuestas de cambios y mejoras visibles para el usuario en el
 	- [Call as function - Delegates](https://www.vadimbulavin.com/call-as-function-in-swift/) 
 	- [Snapshot testing swiftUI](https://www.vadimbulavin.com/snapshot-testing-swiftui-views/)
 	- [Function Builders in Swift and SwiftUI](https://www.vadimbulavin.com/swift-function-builders-swiftui-view-builder/)
+ 	- [keyBoad](https://www.vadimbulavin.com/how-to-move-swiftui-view-when-keyboard-covers-text-field/)
 
 
 ### Bruno Rocha
