@@ -22,6 +22,7 @@
 - [@EnviromentBack](https://www.magnuskahr.dk/posts/2022/12/introducing-the-environmentBacked-property-wrapper/) permite obtener una opcion desde el componente o de la variable de entorno
 - [SwiftUI Hero animation/uikit](https://shadowfacts.net/2023/swiftui-hero-transition/)
 - [SwiftUI layout beh](https://defagos.github.io/understanding_swiftui_layout_behaviors/)
+- [Detecting the Interactive Pop Gesture in SwiftUI](https://livsycode.com/swiftui/detecting-the-interactive-pop-gesture-in-swiftui/?utm_source=fatbobman%20weekly%20issue%2094&utm_medium=web)
 
 ### https://fatbobman.com
 - [implicit/ecplicit animations, disable componets animations](https://fatbobman.com/en/posts/mastering-transaction/)
