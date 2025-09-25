@@ -24,6 +24,7 @@
 - [SwiftUI layout beh](https://defagos.github.io/understanding_swiftui_layout_behaviors/)
 - [Detecting the Interactive Pop Gesture in SwiftUI](https://livsycode.com/swiftui/detecting-the-interactive-pop-gesture-in-swiftui/?utm_source=fatbobman%20weekly%20issue%2094&utm_medium=web)
 - [SwiftUI Redraw System In Depth: Attributes, Recomputation, Diffing and Observation.](https://medium.com/@matgnt/swiftui-redraw-system-in-depth-attributes-recomputation-diffing-and-observation-66b469fdcada)
+- [Delayed animation](https://livsycode.com/swiftui/a-delayable-progress-indicator-in-swiftui/)
 
 ### https://fatbobman.com
 - [implicit/ecplicit animations, disable componets animations](https://fatbobman.com/en/posts/mastering-transaction/)
