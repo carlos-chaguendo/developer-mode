@@ -27,6 +27,8 @@
 - [Delayed animation](https://livsycode.com/swiftui/a-delayable-progress-indicator-in-swiftui/)
 - [Debounce in SwiftUI  for search](https://livsycode.com/swiftui/how-to-use-debounce-in-swiftui-or-in-observable-classes/)
 - [xcode26 promp](https://peterfriese.dev/blog/2025/reveng-xcode-coding-intelligence/?utm_source=fatbobman%20weekly%20issue%2091&utm_medium=web)
+- [Programaticalle send app to background](https://wesleydegroot.nl/blog/move-your-app-to-the-background)
+- [Safe Conditiona modifier/ .if](https://livsycode.com/swiftui/conditional-view-modifiers-in-swiftui-convenience-and-caveats/)
 
 ### https://fatbobman.com
 - [implicit/ecplicit animations, disable componets animations](https://fatbobman.com/en/posts/mastering-transaction/)
