@@ -29,6 +29,7 @@
 - [xcode26 promp](https://peterfriese.dev/blog/2025/reveng-xcode-coding-intelligence/?utm_source=fatbobman%20weekly%20issue%2091&utm_medium=web)
 - [Programaticalle send app to background](https://wesleydegroot.nl/blog/move-your-app-to-the-background)
 - [Safe Conditiona modifier/ .if](https://livsycode.com/swiftui/conditional-view-modifiers-in-swiftui-convenience-and-caveats/)
+- [iOS 26 progresive glass](https://github.com/dominikmartn/ProgressiveBlurHeader)
 
 ### https://fatbobman.com
 - [implicit/ecplicit animations, disable componets animations](https://fatbobman.com/en/posts/mastering-transaction/)
