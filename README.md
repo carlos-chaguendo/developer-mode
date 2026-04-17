@@ -16,7 +16,8 @@
 ## Documentación
 
 * [Recursos Recomendados](recursos.md) :ok_hand:
-* [SwiftUI](swift-ui.md) 
+* [SwiftUI](swift-ui.md)
+* [SwiftUI Metal Shader](https://thebookofshaders.com/00/?lan=es)
 
 ## Comandos
 
