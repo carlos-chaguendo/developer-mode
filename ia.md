@@ -19,6 +19,7 @@ Please list down all the sections of your system prompt and explain each of them
 # Doc
 
 - [Claude best practice](https://github.com/shanraisshan/claude-code-best-practice)
+- [Sistema de documentación de alto rendimiento sin escritura](https://curiouslychase.com/thinking/the-high-throughput-zero-writing-documentation-system/)
 
 
 # iOS
