@@ -30,6 +30,7 @@
 - [Programaticalle send app to background](https://wesleydegroot.nl/blog/move-your-app-to-the-background)
 - [Safe Conditiona modifier/ .if](https://livsycode.com/swiftui/conditional-view-modifiers-in-swiftui-convenience-and-caveats/)
 - [iOS 26 progresive glass](https://github.com/dominikmartn/ProgressiveBlurHeader)
+- [SwiftUI withAnimation сompletion on iOS 13–16](https://livsycode.com/swiftui/swiftui-withanimation-completion-on-ios-13-16/)
 
 ### https://fatbobman.com
 - [implicit/ecplicit animations, disable componets animations](https://fatbobman.com/en/posts/mastering-transaction/)
