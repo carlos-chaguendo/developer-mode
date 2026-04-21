@@ -74,6 +74,7 @@
 ### Projects
 
 - [Dux](https://github.com/jakeheis/Dux/) `Instructions``CoachMark``Walkthrough`
+  - [A Reusable Spotlight Onboarding Component in SwiftUI](https://livsycode.com/swiftui/a-reusable-spotlight-onboarding-component-in-swiftui)
 - [Progress Indicator View](https://github.com/exyte/ProgressIndicatorView)
 - [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)
 - [CurrencyText](https://github.com/marinofelipe/CurrencyText)
