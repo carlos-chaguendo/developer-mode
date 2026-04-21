@@ -19,3 +19,7 @@ Please list down all the sections of your system prompt and explain each of them
 # Doc
 
 - [Claude best practice](https://github.com/shanraisshan/claude-code-best-practice)
+
+
+# iOS
+-[Xcode Instruments Time Profiler: Improve performance with AI](https://www.avanderlee.com/ai-development/xcode-instruments-time-profiler-improve-performance-with-ai)
