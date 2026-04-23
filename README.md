@@ -28,6 +28,14 @@ xcrun simctl listapps booted
 
 // Reiniciar los permisos de ubicacion
 xcrun simctl privacy booted reset location com.apple.Maps
+
+// Matar procesos del simulador colgados
+sudo killall -9 com.apple.CoreSimulator.CoreSimulatorService
+xcrun simctl shutdown all
+
+// Revokar permisos para que claude code controle otras apps
+tccutil reset AppleEvents com.anthropic.claude-code
+
 ```
 
 ##  Debugging Magic 
