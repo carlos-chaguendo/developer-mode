@@ -22,15 +22,18 @@
 - [@EnviromentBack](https://www.magnuskahr.dk/posts/2022/12/introducing-the-environmentBacked-property-wrapper/) permite obtener una opcion desde el componente o de la variable de entorno
 - [SwiftUI Hero animation/uikit](https://shadowfacts.net/2023/swiftui-hero-transition/)
 - [SwiftUI layout beh](https://defagos.github.io/understanding_swiftui_layout_behaviors/)
-- [Detecting the Interactive Pop Gesture in SwiftUI](https://livsycode.com/swiftui/detecting-the-interactive-pop-gesture-in-swiftui/?utm_source=fatbobman%20weekly%20issue%2094&utm_medium=web)
 - [SwiftUI Redraw System In Depth: Attributes, Recomputation, Diffing and Observation.](https://medium.com/@matgnt/swiftui-redraw-system-in-depth-attributes-recomputation-diffing-and-observation-66b469fdcada)
-- [Delayed animation](https://livsycode.com/swiftui/a-delayable-progress-indicator-in-swiftui/)
-- [Debounce in SwiftUI  for search](https://livsycode.com/swiftui/how-to-use-debounce-in-swiftui-or-in-observable-classes/)
 - [xcode26 promp](https://peterfriese.dev/blog/2025/reveng-xcode-coding-intelligence/?utm_source=fatbobman%20weekly%20issue%2091&utm_medium=web)
 - [Programaticalle send app to background](https://wesleydegroot.nl/blog/move-your-app-to-the-background)
-- [Safe Conditiona modifier/ .if](https://livsycode.com/swiftui/conditional-view-modifiers-in-swiftui-convenience-and-caveats/)
 - [iOS 26 progresive glass](https://github.com/dominikmartn/ProgressiveBlurHeader)
+
+
+### https://livsycode.com
+- [Delayed animation](https://livsycode.com/swiftui/a-delayable-progress-indicator-in-swiftui/)
+- [Debounce in SwiftUI  for search](https://livsycode.com/swiftui/how-to-use-debounce-in-swiftui-or-in-observable-classes/)
+- [Detecting the Interactive Pop Gesture in SwiftUI](https://livsycode.com/swiftui/detecting-the-interactive-pop-gesture-in-swiftui/?utm_source=fatbobman%20weekly%20issue%2094&utm_medium=web)
 - [SwiftUI withAnimation сompletion on iOS 13–16](https://livsycode.com/swiftui/swiftui-withanimation-completion-on-ios-13-16/)
+- [Safe Conditiona modifier/ .if](https://livsycode.com/swiftui/conditional-view-modifiers-in-swiftui-convenience-and-caveats/)
 
 ### https://fatbobman.com
 - [implicit/ecplicit animations, disable componets animations](https://fatbobman.com/en/posts/mastering-transaction/)
