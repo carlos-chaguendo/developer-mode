@@ -36,6 +36,9 @@ xcrun simctl shutdown all
 // Revokar permisos para que claude code controle otras apps
 tccutil reset AppleEvents com.anthropic.claude-code
 
+// Activar el panel de subtitulos de VoiceOver
+xcrun simctl spawn <device-id> defaults write com.apple.VoiceOverTouch VoiceOverCaptionPanelEnabled -bool true
+
 ```
 
 ##  Debugging Magic 
