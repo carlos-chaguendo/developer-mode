@@ -38,6 +38,7 @@ tccutil reset AppleEvents com.anthropic.claude-code
 
 // Activar el panel de subtitulos de VoiceOver
 xcrun simctl spawn <device-id> defaults write com.apple.VoiceOverTouch VoiceOverCaptionPanelEnabled -bool true
+xcrun simctl spawn <device-id> defaults domains
 
 ```
 
