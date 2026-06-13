@@ -49,6 +49,18 @@ https://github.com/armcknight/Awesome-Xcode-Debugging
 https://suelan.github.io/2020/02/05/iOS-Simulator-from-the-Command-Line/
 ```
 
+```sh
+Con el crash report. Pasos:
+
+  1. xcrun simctl install colgaba sin error visible
+  2. Busqué crash reports en ~/Library/Logs/DiagnosticReports/ — había varios CoreSimulatorBridge-*.ips generados exactamente durante los intentos fallidos
+  3. Leí el más reciente — en el campo termination.reasons decía explícitamente:
+  Library not loaded: /usr/lib/swift/libswiftXPC.dylib
+  tried: '.../iOS 15.4.simruntime/.../libswiftXPC.dylib' (no such file)
+  4. Busqué esa librería con find en todos los runtimes — solo existía en iOS 16.1
+  5. Copié de iOS 16.1 a iOS 15.x
+```
+
 ## Private Frameworks
 
 - Invocar fameworks privados desde swift https://medium.com/@victor.pavlychko/private-apis-objective-c-runtime-and-swift-ceaeefbb6e48
