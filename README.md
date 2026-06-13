@@ -59,6 +59,12 @@ Con el crash report. Pasos:
   tried: '.../iOS 15.4.simruntime/.../libswiftXPC.dylib' (no such file)
   4. Busqué esa librería con find en todos los runtimes — solo existía en iOS 16.1
   5. Copié de iOS 16.1 a iOS 15.x
+
+
+  SRC="/Library/Developer/CoreSimulator/Volumes/iOS_20B72/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 16.1.simruntime/Contents/Resources/RuntimeRoot/usr/lib/swift/libswiftXPC.dylib"
+
+  sudo cp "$SRC" "/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 15.5.simruntime/Contents/Resources/RuntimeRoot/usr/lib/swift/libswiftXPC.dylib"
+  sudo cp "$SRC" "/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 15.4.simruntime/Contents/Resources/RuntimeRoot/usr/lib/swift/libswiftXPC.dylib"
 ```
 
 ## Private Frameworks
