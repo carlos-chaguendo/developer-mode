@@ -67,6 +67,14 @@ Con el crash report. Pasos:
   sudo cp "$SRC" "/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 15.4.simruntime/Contents/Resources/RuntimeRoot/usr/lib/swift/libswiftXPC.dylib"
 ```
 
+
+## Get app path simulator
+
+```sh
+    
+    UDID='B9CD5D2B-FAEF-46D3-AAAF-3224BC949B0F'; BUNDLE='com.3mosquitos.MercadoLibre'; APP=$(xcrun simctl get_app_container "$UDID" "$BUNDLE" app); echo "Installed app: $APP"; for KEY in DTXcode DTXcodeBuild DTSDKName DTPlatformBuild DTCompiler; do VALUE=$(/usr/libexec/PlistBuddy -c "Print :$KEY" "$APP/Info.plist" 2>/dev/null || true); [ -z "$VALUE" ] && VALUE='(not present)'; echo "$KEY=$VALUE"; done; MAIN=$(/usr/libexec/PlistBuddy -c 'Print :CFBundleExecutable' "$APP/Info.plist"); vtool -show-build "$APP/$MAIN" 2>/dev/null | awk '/platform|sdk|tool  LD|version/{print}' | head -12
+```
+
 ## Private Frameworks
 
 - Invocar fameworks privados desde swift https://medium.com/@victor.pavlychko/private-apis-objective-c-runtime-and-swift-ceaeefbb6e48
